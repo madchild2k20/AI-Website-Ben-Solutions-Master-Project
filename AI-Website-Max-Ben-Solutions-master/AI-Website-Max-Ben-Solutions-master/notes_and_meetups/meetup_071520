@@ -1,0 +1,24 @@
+
+
+Today's session (discussing goals and progress)
+
+Discussed how 
+
+- group by certain columns that have appropriate data types such as obj, int64
+
+-  max's approach to read files using the glob function and then dissect the data
+	 and then to manipulate, create permutations with columns and writing back to
+	 an Excel file (.xlsx)
+
+- some issues that we were running into were the writing back to excel files using	appropriate clause. 
+
+Next Objective :
+
+Meet next Wed (7/22)
+
+- accomplish a clean notebook that starts with accepting a user input for 
+	basic data groupby, if they would want permutation (cartesian product), or
+  a more sophisticated analysis such as ML Feature Importance.
+
+- create functions that are callable and can gracefully manipulate, create eda, and write back to an Excel File.
+

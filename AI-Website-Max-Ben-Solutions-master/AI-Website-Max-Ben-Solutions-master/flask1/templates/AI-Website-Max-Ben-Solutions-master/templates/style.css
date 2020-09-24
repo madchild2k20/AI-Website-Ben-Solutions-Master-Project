@@ -1,0 +1,15 @@
+body{
+    background-image:url('C:\\Users\\madch\\Documents\\AI-Website-Max-Ben-Solutions-master\\AI-Website-Max-Ben-Solutions-master\\flask1\\templates\\ai.jpg');
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin:0%;
+    height:100%;
+    width:100%;
+}
+
+#color{
+    background-color:whitesmoke;
+    padding:5em;
+}
+

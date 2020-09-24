@@ -1,0 +1,10 @@
+### Resources about today's zoom meeting. 
+
+Find out how to decide which variables are compareable with one another
+using df.info() and then from the selection create a appropriate
+eda analysis and spit it back out.
+
+python-powered notebook : https://resources.oreilly.com/binderhub/python-powered-excel-live-training/blob/master/notebooks/Lesson%2001%20-%20Sales.ipynb
+
+xlsx writer with vba macros : https://xlsxwriter.readthedocs.io/working_with_macros.html
+

@@ -1,0 +1,14 @@
+   Weekly Meet Up                                      Date: July 22, 2020
+
+- Discussed what we both have been working on 
+
+
+Ben - worked on manipulating data to sort of have either basic stats or more of an indepth eda. I believe adding more prefixed functions can give the website user a better idea what they would like for us to do with their data. 
+
+Max - has been working on adaptation of a local host platform for the meanwhile using (streamlit in python) Max is working on groupby manipulation that will give the user a good grasp in manipulating data.
+We have to work in making the group by easy for the user to do and have good examples transmitted before printing out to a csv or xlsx file.
+
+Next meet is Friday the 27th.
+
+
+

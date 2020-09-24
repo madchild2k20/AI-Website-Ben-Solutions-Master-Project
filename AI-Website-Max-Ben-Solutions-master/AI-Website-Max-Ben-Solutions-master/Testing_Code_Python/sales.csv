@@ -1,0 +1,63 @@
+﻿Worker,Month,Client,Qty,Amt,Commission
+J,3,Blue Cross,3000,15000,2250
+J,3,Dunmore High,2000,10000,1500
+J,3,Maguire Advertising,1750,8750,1312.5
+J,3,Decker Automotive,1000,5000,750
+D,3,Lackawanna County,2000,10000,1500
+D,3,Scranton White Pages,2000,10000,1500
+D,3,Apex Technology,750,3750,562.5
+D,3,"Stone, Cooper, Grandy",500,2500,375
+D,3,Harper Collins,1000,5000,750
+D,3,Prestige Postal,750,3750,562.5
+P,3,Ken's Beauty Supplies,1500,7500,1125
+P,3,Steamtown Mall,1500,7500,1125
+P,3,East Penn Seminary,1500,7500,1125
+S,3,Haymont Tires,1000,5000,750
+S,3,Down!,1250,6250,937.5
+S,3,Tract Industries,1250,6250,937.5
+S,3,Stone and Son,875,4375,656.25
+A,3,Barbara Allen,750,3750,562.5
+A,3,Bob Vance,750,3750,562.5
+J,4,Blue Cross,2200,11000,1650
+J,4,Dunmore High,1250,6250,937.5
+J,4,Maguire Advertising,750,3750,562.5
+J,4,Athleap,350,1750,262.5
+J,4,Scranton Golf,500,2500,375
+D,4,Lackawanna County,1500,7500,1125
+D,4,Scranton White Pages,1100,5500,825
+D,4,Apex Technology,550,2750,412.5
+D,4,"Stone, Cooper, Grandy",300,1500,225
+D,4,Harper Collins,800,4000,600
+D,4,Prestige Postal,550,2750,412.5
+P,4,Ken's Beauty Supplies,1000,5000,750
+P,4,Steamtown Mall,1200,6000,900
+P,4,East Penn Seminary,1500,7500,1125
+S,4,Haymont Tires,900,4500,675
+S,4,Down!,1050,5250,787.5
+S,4,Tract Industries,1050,5250,787.5
+S,4,Stone and Son,665,3325,498.75
+A,4,Barbara Allen,550,2750,412.5
+A,4,Vance Ref.,550,2750,412.5
+A,4,Scranton Animal Shelter,100,500,75
+A,4,Cornell,100,500,75
+J,5,Blue Cross,1700,8500,1275
+J,5,Dunmore High,1000,5000,750
+J,5,Maguire Advertising,750,3750,562.5
+J,5,Scranton Golf,500,2500,375
+D,5,Lackawanna County,1200,6000,900
+D,5,Scranton White Pages,900,4500,675
+D,5,Apex Technology,400,2000,300
+D,5,"Stone, Cooper, Grandy",150,750,112.5
+D,5,Harper Collins,600,3000,450
+D,5,Prestige Postal,650,3250,487.5
+P,5,Ken's Beauty Supplies,900,4500,675
+P,5,Steamtown Mall,1100,5500,825
+P,5,East Penn Seminary,1000,5000,750
+S,5,Haymont Tires,800,4000,600
+S,5,Down!,950,4750,712.5
+S,5,Tract Industries,900,4500,675
+S,5,Stone and Son,500,2500,375
+A,5,Bob Vance,550,2750,412.5
+A,5,Scranton Animal Shelter,100,500,75
+A,5,Cornell,0,0,0
+A,5,Barbara Allen,0,0,0
